@@ -25,7 +25,7 @@ ipcc呼叫中心sdk
 
 
 
-### Before you begin
+### 准备之前
 
 ---
 - 需要自己准备好回调URL
@@ -41,7 +41,7 @@ ipcc呼叫中心sdk
 
 ---
 
-#### Installation
+#### 安装
 
 ```bash
 $> cd ipccSDK-python
@@ -49,7 +49,7 @@ $> python setup.py install
 $> pip install -r requirements.txt
 ```
 
-#### Example
+#### 案例
 
 修改```example.py``` 代码中的配置
 
@@ -67,7 +67,7 @@ $> python example.py
 
 
 
-### Documentation
+### 文档
 
 ---
 
